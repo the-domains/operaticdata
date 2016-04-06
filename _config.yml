@@ -1,0 +1,28 @@
+name: OperaticData
+favicon: null
+layout_spectrum: 0.08033433533273637
+typography_spectrum: 0.4586580987088382
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.457826578989625
+  lightness: 0.7056538332253695
+  saturation: 0.8638332930859178
+  rhythmicContrast: 0.05924395937472582
+purpose: []
