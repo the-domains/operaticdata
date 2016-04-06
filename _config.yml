@@ -2,6 +2,7 @@ name: OperaticData
 favicon: null
 layout_spectrum: 0.08033433533273637
 typography_spectrum: 0.4586580987088382
+title: 'Making your data sing!'
 cta:
   domain: null
   bucket: null
