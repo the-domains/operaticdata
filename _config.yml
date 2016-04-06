@@ -1,7 +1,7 @@
 name: OperaticData
 favicon: null
 layout_spectrum: 0.08033433533273637
-typography_spectrum: 0.4586580987088382
+typography_spectrum: 0.41166
 title: 'Making your data sing!'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.457826578989625
-  lightness: 0.7056538332253695
-  saturation: 0.8638332930859178
-  rhythmicContrast: 0.05924395937472582
+  brandStrength: 0.6875
+  lightness: 0.6875
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
