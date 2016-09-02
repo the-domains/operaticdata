@@ -1,4 +1,3 @@
-layout_spectrum: 0.011158656794577837
 typography_spectrum: 0.3664316351059824
 color:
   brandColors:
@@ -11,19 +10,22 @@ color:
   lightness: 0.32380042038857937
   saturation: 0.13630810868926346
   rhythmicContrast: 0.7000183761119843
-name: OperaticData
-favicon: null
-title: Making your data sing!
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.011158656794577837
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/26b2ac52-206f-42a1-b457-9dbac845ed22.png
+name: OperaticData
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Making your data sing!
 purpose: []
