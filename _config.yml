@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: John Ortt
+  email: john@operaticdata.com
+  url: www.operaticdata.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/26b2ac52-206f-42a1-b457-9dbac845ed22.png
 name: OperaticData
