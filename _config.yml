@@ -1,8 +1,19 @@
+layout_spectrum: 0.011158656794577837
+typography_spectrum: 0.3664316351059824
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.6378999361768365
+  lightness: 0.32380042038857937
+  saturation: 0.13630810868926346
+  rhythmicContrast: 0.7000183761119843
 name: OperaticData
 favicon: null
-layout_spectrum: 0.08033433533273637
-typography_spectrum: 0.41166
-title: 'Making your data sing!'
+title: Making your data sing!
 cta:
   domain: null
   bucket: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#332c24'
-    - '#9d824b'
-    - '#afb5d5'
-    - '#f0ffff'
-    - '#d2ad45'
-  brandStrength: 0.6875
-  lightness: 0.6875
-  saturation: 0.75
-  rhythmicContrast: 0.25
 purpose: []
